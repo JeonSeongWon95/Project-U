@@ -1,0 +1,36 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     text=auto diff=csharp
+*.sln    text=auto merge=union
+*.csproj text=auto merge=union
+*.config text=auto merge=union
+*.mv     text=auto merge=union
+*.code-workspace merge=union
+
+# Unity specific
+*.mat    text=auto merge=unityyaml
+*.anim   text=auto merge=unityyaml
+*.unity  text=auto merge=unityyaml
+*.prefab text=auto merge=unityyaml
+*.physicsMaterial2D text=auto merge=unityyaml
+*.physicMaterial    text=auto merge=unityyaml
+*.asset  text=auto merge=unityyaml
+*.meta   text=auto merge=unityyaml
+*.controller text=auto merge=unityyaml
+
+# Graphics
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.wav binary
+*.aif binary
+*.ogg binary
+*.ttf binary
+*.otf binary
