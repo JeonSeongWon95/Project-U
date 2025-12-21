@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seongwon\\UnityProject\\Project U\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|c:\\users\\seongwon\\unityproject\\project u\\assets\\scripts\\environment\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\environment\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\gamesettings\\language\\localizingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings\\language\\localizingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\character\\states\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\states\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\character\\controller\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\controller\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\character\\states\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\states\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|C:\\Users\\seongwon\\UnityProject\\Project U\\assets\\scripts\\character\\states\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0092E90-FF76-FE3F-F1EE-BC36888AB20A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\states\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherManager.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Environment\\WeatherManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\WeatherManager.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Environment\\WeatherManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\WeatherManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T04:18:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Environment\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Environment\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\DayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T03:51:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ELANGUAGETYPE.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ENUM\\GameSettings\\ELANGUAGETYPE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:46:21.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalizingManager.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\GameSettings\\Language\\LocalizingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings\\Language\\LocalizingManager.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\GameSettings\\Language\\LocalizingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSettings\\Language\\LocalizingManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:19:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerBaseState.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\States\\PlayerBaseState.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\States\\PlayerBaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:07:59.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\States\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\States\\PlayerIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:53:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\States\\PlayerMoveState.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\States\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\States\\PlayerMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:51:52.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\Controller\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Controller\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Users\\seongwon\\UnityProject\\Project U\\Assets\\Scripts\\Character\\Controller\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Controller\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:49:10.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
