@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMoveState : PlayerBaseState
 {
@@ -13,18 +14,16 @@ public class PlayerMoveState : PlayerBaseState
 
     public override void Tick() 
     {
-        float h = Input.GetAxisRaw("Horizontal"); // ÁÂ¿ì°ª °¡Á®¿È
-        float v = Input.GetAxisRaw("Vertical"); // »óÇÏ°ª °¡Á®¿È
-
-        if(h == 0 && v == 0) 
+        if(player.moveAmount == Vector2.zero)
         {
             player.ChangeState(player.IdleState);
+            return;
         }
 
-        //TODO :
-        //Move Speed, Attack, Attack Speed etc Export
-        Vector3 dir = new Vector3(h, 0, v).normalized;
-        player.transform.Translate(dir * 5.0f * Time.deltaTime);
+        Vector3 moveAmount = new Vector3(player.moveAmount.x, 0, player.moveAmount.y);
+        moveAmount.Normalize();
+        player.transform.Translate(moveAmount * 5.0f * Time.deltaTime);
+
     }
 
     public override void Exit() 

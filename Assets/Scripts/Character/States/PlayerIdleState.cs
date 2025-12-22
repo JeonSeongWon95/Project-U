@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerIdleState : PlayerBaseState
 {
@@ -10,13 +11,7 @@ public class PlayerIdleState : PlayerBaseState
 
     public override void Tick()
     {
-        float h = Input.GetAxisRaw("Horizontal");
-        float v = Input.GetAxisRaw("Vertical");
 
-        if (h != 0f && v != 0f)
-        {
-            player.ChangeState(player.MoveState);
-        }
     }
 
     public override void Exit()
